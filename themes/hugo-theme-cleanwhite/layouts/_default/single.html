@@ -21,9 +21,9 @@
                         </a>
                         {{ end }}
                     </div>
-                    <h1>{{ .Title }}</h1>
-                    <h2 class="subheading">{{ .Params.subtitle }}</h2>
-                    <span class="meta">
+                    <h1 style="color:lightblue;">{{ .Title }}</h1>
+                    <h2 style="color:black;"class="subheading">{{ .Params.subtitle }}</h2>
+                    <span style="color:black;"class="meta">
                         {{ if .Params.metadata }}
                             {{ range $index, $element := .Params.metadata }}
                                 {{ if .link }}
@@ -79,9 +79,6 @@
                 -->
                 {{ .Content }}
 
-                {{ if .Site.Params.reward }}
-                {{ partial "reward.html" . }}
-                {{ end }}
 
                 {{ if or (.PrevInSection) (.NextInSection) }}
                 <hr>
