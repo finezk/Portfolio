@@ -63,10 +63,3 @@ Using terminal and pyinstaller to build exe
 ```
 $ pyinstaller -F alien_invasion.py -c --icon=icon.ico
 ```
-Copilot
-raw.githubusercontent.com
-Ask a follow-up question
-GPT-3.5
-GPT-4
-
-Summary
