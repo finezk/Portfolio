@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = "https://finezk.github.io/Portfolio/"
 title = "Zachary's Portfolio"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -103,11 +103,11 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "ARCHIVE"
-  href =  "/archive/"
+  href =  "/Portfolio/archive/"
 
   [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "/about/"
+  href =  "/Portfolio/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
