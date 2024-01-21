@@ -1,55 +1,54 @@
 ---
 layout: page
-multilingual: true
+multilingual: false
 ---
 
+## Personal Project
+**_The Personal Project_** allows students to demonstrate their ability to connect and transfer the extensive skills, knowledge and understandings they have acquired in one or more of their MYP disciplines to a global context, in order to achieve a meaningful goal of their own design. 
+
+The project prepares students for success in the IB Diploma Programme by introducing them to the challenges of independent work, in which self-motivation is essential. The extensive research required by the project and the presentation of an academic report provide an introduction to the rigor and skills required by the DP Extended Essay.          
+
+During the course of the personal project, students choose a learning goal and develop a product goal that connects their chose topic to their personal interest.
+
+Read more about how parents can help their children with the personal project [here](https://sites.google.com/lincoln.edu.gh/personal-project-lcs/parents?authuser=0).
+
+## Learning Goal
+**_The learning_** goal I am aiming for is to become more proficient in Python. I have some experience with coding languages such as Scratch and have a basic understanding of C++, C#, and Python, being the ones that I’m most experienced with. This is why I have chosen Python as the language I will use to achieve my learning goal. To be more proficient in Python, some specific skills are essential to achieve this goal, such as object-oriented programming (OOP), inheritance, and composition. These skills are used to organize your code to help you better navigate through the content that you have created.
+
+
+## Product Goal
+**_The product_** goal I aim to achieve during my personal project is to create a video game using Python. Python is an easy-to-learn programming language capable of various tasks, including software development, task automation, data analysis, website building, and, most importantly, game development, which is the goal I am pursuing. To view and make the game public, I will need to create an account on GitHub, which is an online forum for coders to share their projects and applications. 
+
+A more challenging aspect of my goal is to build a website (The one that you are viewing currently) that hosts the game I am creating, inspired by the retro game "Space Invaders." This website will also showcase my coding learning journey, including my previous coding projects and portfolios.
+
+To create criteria that measure the quality of the goal, I utilize the **S.M.A.R.T** goal format, which stands for Specific, Measurable, Achievable, Relevant, and Time. 
+
+
+### **Specific**:
+The goal clearly states the objective of creating a Python-based video game and a corresponding website.
+
+### **Measurable**: 
+Progress can be tracked through game development milestones, the completion of website features, and the number of coding projects showcased.
+
+### **Achievable**: 
+The goal is attainable with my existing Python skills, but it also acknowledges the need for continuous learning, specifically in areas like composition and inheritance. It adopts a learning process to acquire the necessary knowledge as I work towards the goal.
+
+### **Relevant**: 
+The goal connects with my passion for game development and coding, showing a meaningful endeavor
+
+### **Time**: 
+The goal is expected to be achieved on March 10, 2024.
+
 ## About Me
-**_Huabing Zhao_** is a software architect, an Istio Member and an ONAP PTL. He has a solid experience in the information and telecommunication technology industry for more than 17 years. 
+**_I started_** my coding journey when I was in the 4th grade. I used to love playing video games all the time, but some of my favorite games had critical flaws that needed fixing. That's when I became interested in learning more about coding and game development. A good game needs to be both engaging and aesthetically pleasing; however, designing and drawing are not my strongest skills. So, I decided to choose the coding path because it doesn't require any artistic talent or skill to produce its outcome. It is also an essential component in creating a game. It connects with my goal because Python is a vital programming language in the game development industry. It is nearly a requirement for creating a game due to the versatility of the language; it can be used to develop games for various platforms, including desktop, mobile, and web. Things that I could do outside of school are things such as work on coding projects independently and learn more in-depth about programming languages, like Python.
 
-Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production. 
+## Success Criteria
+This is the sucess criteria that I've developed in order to achieve the intended product.
 
-He loves open source and has been contributing to various open source projects, he is a member of Istio,  previous PTL of ONAP, the author of the Hugo clean-white theme and the open source project Aeraki Mesh.  
-
-He also has strong interests in various technical topics such as Cloud Native, Artificial Intelligence, Cryptocurrencies, Smart Home, etc. He love sharing his ideas about these things in his blog.
-
-Huabing holds a BSc in Computer Science and Technology from Chongqing University in China. 
-
-Currently, Huabing works as a senior engineer at [Tencent Cloud](https://cloud.tencent.com/) and also wears the hat of PTL in ONAP open source project. For now, his main focus is to build a managed service mesh solution on cloud.
-
-While he is free, he likes writing technical blog posts, watching movies, swimming, hiking, travelling and learning languages.
-
-Feel free to connect Huabing at Github and Linkedin, leave your thoughts in his blog or share your ideas by [writing him an email](mailto:zhaohuabing@zhaohuabing.com). 
-
-## Publications
-| Title       |Type        |Publisher   |Link        |
+|__Score:__      |  Criterion A: Creativity and Innovation   |  Criterion B: Gameplay and Fun Factor   |  Criterion C: User Experience   |
 | ----------- |----------- |----------- |----------- |
-|[Istio Service Mesh Advanced Practical](https://www.zhaohuabing.com/post/2021-08-26-istio-handbook/)|Book|电子工业出版社|[Buy now](https://item.jd.com/13200745.html)|
-|[Distributed Tracing with Jaeger, Kubernetes, and Istio](https://www.zhaohuabing.com/post/2021-09-08-distributed-tracing-with-jaeger-kubernetes-and-istio/)|Live Project|Manning|[30% off](https://www.manning.com/liveprojectseries/distributed-tracing-ser)|
-|[Cloud Native Data Center Networking](https://zhaohuabing.com/post/2021-08-27-cloud-native-data-center)|Translation|中国电力出版社|[Buy now](https://item.jd.com/12929975.html)|
-|[Istio Operation Bible](http://localhost:1313/post/2021-10-08-istio-operation-bible/)|ebook||[Read online](https://istio-operation-bible.aeraki.net/)|
-
-
-## Presentations (Selected)
-|Year         |City        |Conference  | Title      |Slides      |Video       |
-| ----------- |----------- |----------- |----------- |----------- |----------- |
-|2022|Virtual|[IstioCon](https://events.istio.io/istiocon-2022)|[Tencent Music’s service mesh practice with Istio and Aeraki](https://events.istio.io/istiocon-2022/sessions/tencent-music-aeraki/)|[slides](/slides/tencent-music-service-mesh-practice-with-istio-and-aeraki.pdf)|[Video](https://www.youtube.com/watch?v=6t_yPsq4Pi4)|
-|2022|Virtual|[A2M](https://a2m.msup.com.cn/course?aid=2699&cid=15382)|[全栈服务网格 - Aeraki Mesh 助你在 Istio 服务网格中管理任何七层流量](https://a2m.msup.com.cn/course?aid=2699&cid=15382)|[slides](/slides/full-stack-service-mesh-a2m-20220422.pdf)||
-|2022|Virtual|[云原生正发声](https://cloud.tencent.com/developer/salon/live-1403)| [Areaki Mesh 在 2022 冬奥会视频直播应用中的服务网格实践](https://mp.weixin.qq.com/s/zp9q99mGyH2VD9Dij2owWg) | [Slides](http://localhost:1313/img/2022-03-30-aeraki-mesh-winter-olympics-practice/slides.pdf)|[Video](https://youtu.be/uXxatQTKzW8)|
-|2021|Virtual|[IstioCon](https://events.istio.io/istiocon-2021/)| [How to manage any layer-7 traffic in an Istio service mesh?](https://events.istio.io/istiocon-2021/sessions/how-to-manage-any-layer-7-traffic-in-an-istio-service-mesh/) | [Slides](/slides/how-to-manage-any-layer-7-traffic-in-istio.pdf)|[Video](https://www.youtube.com/watch?v=sBS4utF68d8)|
-|2020|Virtual|[CNBPS](https://www.cnbpa.org/)|[Istio 流量管理原理与协议扩展](https://cloud.tencent.com/developer/article/1723804)|[Slides](/slides/cnbps2020-istio-aeraki.pdf)|[Video](https://www.youtube.com/watch?v=lB5d4qbZqzU)|
-|2019|Chengdu|[Service Mesher Meetup](https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/)|[What Can Service Mesh Learn From SDN?](https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/)|[Slides](/slides/what-can-service-mesh-learn-from-sdn-servicemesher-meetup-20191026.pdf)|[Video](https://youtu.be/nGkxp-2OsKg)|
-|2019|Xi'an|ONAP Workshop|Service Mesh Practice with 5G Management System|[Slides](/slides/service-mesh-practice-with-5g-management-system-lfn.pdf)|
-|2018|Nanjing|[GNTC](https://www.bagevent.com/event/1624048?aId=)|[Service Mesh in Action with ONAP](https://www.sdnlab.com/22596.html)|
-|2017|Santa Clara|[NAP Developer Forum](https://wiki.onap.org/display/DW/ONAP+Beijing+Release+Developer+Forum%2C+Dec.+11-13%2C+2017%2C+Santa+Clara%2C+CA+US)|[MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh](https://onapbeijing2017.sched.com/event/D5q2)|[Slides](https://wiki.onap.org/display/DW/MSB+Service+Mesh+Planning?preview=%2F20873876%2F20873874%2FMSB+to+Support+Carrier+Grade+ONAP+Microservice+Architecture+with+Service+Mesh.pdf)|
-|2017|Santa Clara|[ONS](https://wiki.onap.org/display/DW/ONAP@ONS2017)|Microservice Powered Orchestration|[Slides](https://wiki.onap.org/display/DW/ONAP@ONS2017?preview=%2F3245268%2F3245309%2FMicroservice+Powered+Orchestration+Architecture.pdf)|
-|2017|New Jersey|[ONAP Developer Event](https://wiki.onap.org/display/DW/ONAP+Project+Developer+Event%3A+May+2+-+5%2C+2017%2C+Middletown%2C+NJ%2C+USA)|MSB Technical Deep Dive and ONAP Use Cases|[Slides](https://www.slideshare.net/HuabingZhao/msb-depp-dive/)|
-|2017|Paris|[ONAP Developer Event](https://wiki.onap.org/display/DW/ONAP+Developer+Event+September+25-28%2C+2017%2C+Paris-Saclay%2C+France)|[Microservice Bus Tutorial](https://wiki.onap.org/display/DW/September+26-28+Topics#September2628Topics-M2)|[Slides](https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial)|
-
-## Open Source Projects
-|Project      |Role        |  Website   | GitHub     |
-| ----------- |----------- |----------- |----------- |
-| Aeraki Mesh | Creator    | https://aeraki.net  | http://github.com/aeraki-mesh |
-| Istio       | Contributor| https://istio.io    | https://github.com/istio/istio|
-| Envoy       | Contributor| https://www.envoyproxy.io |https://github.com/envoyproxy/envoy|
-| ONAP        | PTL        | https://www.onap.org||
-| hugo-theme-cleanwhite | Creator    | https://themes.gohugo.io/themes/hugo-theme-cleanwhite  | https://github.com/zhaohuabing/hugo-theme-cleanwhite |
+| 0 | The product does not achieve a standard described by any of the descriptors below.    | The product does not achieve a standard described by any of the descriptors below. | The product does not achieve a standard described by any of the descriptors below. |
+| 1-2| The product has minimal evidence of creativity and innovation. It suggests a lack of originality, with much of the work appearing to be sourced from others.| The gameplay is somewhat engaging, but the fun factor is limited.    | The user experience is poor, with several issues.|
+| 3-4| The product shows some degree of creativity and innovation.| The game offers reasonably enjoyable gameplay. |The product provides an acceptable user experience.|
+| 5-6| The product demonstrates a good level of creativity and innovation.        | The game is fun to play and provides an engaging gaming experience.|The product offers a good user experience.|
+| 7-8| The product displays exceptional creativity and innovation.    | The gameplay is highly enjoyable, and the fun factor is exceptional.  | The product provides an outstanding user experience with no mistakes or errors. |
