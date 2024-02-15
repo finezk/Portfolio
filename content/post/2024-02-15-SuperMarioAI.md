@@ -13,7 +13,7 @@ URL: "/2024/02/15/2024-02-15-MarioAI"
 # Super Mario Bros AI
 
 ## Introduction
-![banner.png (1918×1080) (raw.githubusercontent.com)](https://github.com/finezk/Mario-AI/blob/main/mario.gif?raw=true)
+![banner.png (1918×1080) (raw.githubusercontent.com)](https://github.com/finezk/Mario-AI/blob/main/mariobros.gif?raw=true)
 
 Welcome to MarioRL, an exciting project that combines the nostalgia of the classic Super Mario Bros game with the cutting-edge field of reinforcement learning (RL). This project is designed to provide a hands-on experience with RL concepts by training an agent to play Super Mario Bros autonomously. Utilizing the PyTorch library and the Gym Retro environment, MarioRL offers a unique platform for both beginners and experienced practitioners to explore and experiment with various reinforcement learning algorithms in a fun and familiar setting.
 
@@ -30,38 +30,9 @@ MarioRL is a reinforcement learning framework that uses the iconic Super Mario B
 
 ## Getting Started
 
-Embark on your reinforcement learning journey with MarioRL by cloning the repository, setting up your environment, and running the provided Jupyter notebook. Whether your interest lies in the technical aspects of RL algorithms or you're just here for the thrill of watching Mario conquer levels on his own, MarioRL promises a rewarding experience.
-```
-git clone https://github.com/finezk/Mario-AI.git
-```
-Download the best model below:
-https://drive.google.com/file/d/1ombC68vZelYDx8oCYJX51In8HsWcsuvU/view?usp=drive_link
+Click the Github link below to get started. Instructions are given below the files labled "Usage".
 
-## Usage
-
-1. Visual Studio Code
-Download VSCode https://code.visualstudio.com/
-Download python 3.10.11 https://www.python.org/
-
-After installing VScode and Python, download the extension in VSCode as follow:
-* python
-* python for vscode
-* code runner
-
-2. Open the terminal in the "Mario-AI" folder.
-```
-pip install -r requirements.txt
-```
-3. How to train model
-```
-cd Mario-AI
-python train.py
-```
-4. To test the AI model, drag the file you want to the "Mario-AI" layer of the folder and rename it "best_model."   
-```
-cd Mario-AI
-python test.py
-```      
+https://github.com/finezk/Mario-AI
 
 ##  Reference
 https://www.youtube.com/watch?v=2eeYqJ0uBKE
