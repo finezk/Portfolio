@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Goal Shooting"
-subtitle:   "My first game!"
-date:    2018-10-23
+title:      "Alien-Invasion"
+subtitle:   "A game about shooting aliens"
+date:    2024-01-13
 author:     "Zachary Hsu"
-image: "img/2024-01-21.png"
+image: "img/alieninvasion.png"
 tags:
-    - Scratch
-URL: "/2018/10/23/2018-10-23-goalshooting"
+    - Python
+URL: "/2024/01/13/2024-01-13-alieninvasion"
 ---
 # Alien-invasion Game
 
